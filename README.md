@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koshambib&theme=onedark" alt="koshambib" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Django and Flutter**
+- 🌱 I’m currently learning **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
